@@ -7,7 +7,9 @@ Facilita Mac, su fabricante y y su direccion IP.
 INSTRUCCIONES:
 
 Instala los paquetes necesarios:
+/////////////////////////
 sudo apt install arp-scan
+/////////////////////////
 
 Luego, ejecute el comando:
 /////////////////
